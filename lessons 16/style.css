@@ -1,0 +1,113 @@
+/*
+*{
+    color: red;
+}
+
+img{
+    width: 300px;
+    height: 300px;
+}
+
+.table{
+    border: 2px dotted red;
+    padding: 5px;
+    margin-bottom: 100px;
+
+}
+
+.table td{
+    border: 1px solid black;
+}
+.table th{
+    border: 1px solid black;
+}
+
+#head {
+    color: blue;
+}
+
+.table>tr{
+    background:blue;
+}
+
+td, th{
+    background: royalblue;
+}
+
+td:hover, th:hover{
+    background: silver;
+}
+
+a:visited{
+    color:lawngreen;
+}
+
+a:focus{
+    font-size: 30px;
+    color:lightblue;
+}
+
+a:active{
+    font-size: 30px;
+    color:saddlebrown;
+}
+
+a::after{
+    content: "/";
+}
+
+a::before{
+    content: "*";
+}
+*/
+.table{
+    border: 1px solid black;
+}
+
+.table td, .table th{
+    border: 1px solid black;
+
+}
+#id1{
+    text-align: center;
+}
+
+td{border: 1px solid black;
+    text-align: center;
+    
+}
+
+.redBlock{
+    background: red;
+    width:80px;
+    height: 80px;
+    text-align: center;
+}
+
+.blueBlock{
+    background: blue;
+    width: 40px;
+    height: 80px;
+    text-align: center;
+}
+.blueBlock2{
+    background: blue;
+    height: 40px;
+    width: 80px;
+    text-align: center;
+}
+
+#id2{
+    text-align: center;
+}
+
+img:hover{
+    background: brown;
+    padding: 3px;
+    width: 400px;
+    height: 400px;
+}
+
+
+
+
